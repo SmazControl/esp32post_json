@@ -3,5 +3,5 @@ Example ESP32 Post JSON to PHP
 
 to avoid uri decode problem on normal POST/GET method 
 
-* ESP32 rss.ino
+* ESP32 rss.ino  please Beware " in JSON 
 * PHP   rss.php
